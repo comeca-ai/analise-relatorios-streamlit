@@ -27,5 +27,4 @@ OPENAI_API_KEY=suachaveaqui
 
 Clique no botão abaixo para criar instantaneamente uma instância online deste app no [Streamlit Cloud](https://streamlit.io/cloud):
 
-[![Deploy on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/deploy?repository=https://github.com/comeca-ai
-/analise-relatorios-streamlit)
+[![Deploy on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/deploy?repository=https://github.com/comeca-ai/analise-relatorios-streamlit)
